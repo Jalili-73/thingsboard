@@ -1,7 +1,7 @@
 # thingsboard
-thingsboard customization
-handle complex telemetry in thingsboard
-assuming that device send json like this
+thingsboard customization<br/>
+handle complex telemetry in thingsboard<br/>
+assuming that device send json like this<br/>
 {"data_list:[
 {
   "id":3,
@@ -46,5 +46,5 @@ assuming that device send json like this
   "t":"3"
 }]
 }
-the length of array is between 1 and 10
-we want change to the thingsboard code to handle it
+<br/>the length of array is between 1 and 10<br/>
+we want change to the thingsboard code to handle it<br/>
