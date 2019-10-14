@@ -47,5 +47,7 @@ assuming that device send json like this<br/>
 }]
 }
 <br/>the length of array is between 1 and 10<br/>
-we want change to the thingsboard code to handle it<br/>
+we want change to the thingsboard code to handle this json<br/>
 
+download thingsboard source code then replace JsonConverter.java and DeviceApiController.java in thingsboard directory
+compile thingsboard
