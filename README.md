@@ -2,7 +2,7 @@
 thingsboard customization<br/>
 handle complex telemetry in thingsboard<br/>
 assuming that device send json like this<br/>
-{"data_list:[
+{"data_list":[
 {
   "id":3,
   "v":3,
@@ -48,3 +48,4 @@ assuming that device send json like this<br/>
 }
 <br/>the length of array is between 1 and 10<br/>
 we want change to the thingsboard code to handle it<br/>
+
